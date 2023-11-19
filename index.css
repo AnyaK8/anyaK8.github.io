@@ -24,6 +24,7 @@
     max-width: 1140px;
     padding: 0px 15px;
     margin: 0px auto;
+
 }
 
 /*banner*/
@@ -49,9 +50,11 @@
     color: #151c39;
     text-align: center;
 }
-.cards{
+.card{
     padding: 25px;
     margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
     width: 25%;
     background: white;
     box-shadow: 0px 2px 7px 0px #9e90ff;
@@ -71,6 +74,7 @@
     color: white;
     text-decoration: none;
 }
+
 
 /*footer*/
 .footer{
